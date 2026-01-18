@@ -131,5 +131,5 @@ Software Engineer
 
 ## 📄 Lisans
 
-Bu proje kişisel olarak geliştirilmiştir.
+Bu proje kişisel eğitim ve portföy amacıyla geliştirilmiştir.  
 Ticari kullanım için geliştirici izni gereklidir.
