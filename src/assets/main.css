@@ -1,0 +1,31 @@
+/* src/assets/main.css */
+
+/* ensure page background white and fonts ok */
+body { background: #fafafa; }
+
+/* make prime inputtexts accept bootstrap-like styling */
+.p-inputtext.form-control,
+.p-password .p-inputtext.form-control,
+.form-control.p-inputtext {
+  display: block;
+  width: 100%;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
+
+.auth-card {
+  box-shadow: 0 8px 20px rgba(0,0,0,0.06);
+  border-radius: 6px;
+  overflow: visible;
+}
+
+/* small error */
+.p-error, .error-text { color: #c82333; }
+
+/* small spacing helpers */
+.form-label { font-weight: 500; display:block; margin-bottom:6px; }
