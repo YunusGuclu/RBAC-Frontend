@@ -79,7 +79,7 @@ gibi tüm sistem operasyonlarını yönetebilir.
 <img width="602" height="378" alt="image" src="https://github.com/user-attachments/assets/448cbc48-7fb8-424e-a774-918f1150e89d" />
 
 #### Kullanıcı–Rol (RoleUser) İlişkilerinin Yönetimi 
-<img width="650" height="480" alt="image" src="https://github.com/user-attachments/assets/d12bc862-9863-4011-af95-a7fa8099cfa1" />
+<img width="600" height="480" alt="image" src="https://github.com/user-attachments/assets/88913522-94ed-4abf-af12-f3f50680c233" />
 
 #### Rol–FMC (RFMC) Güncelleme
 <img width="700" height="480" alt="image" src="https://github.com/user-attachments/assets/28fbff40-1d7a-4279-b620-665b8023817e" />
