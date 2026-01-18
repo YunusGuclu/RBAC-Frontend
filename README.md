@@ -12,7 +12,12 @@ tam kapsamlı bir frontend arayüz sunar.
 ## 🎯 Projenin Amacı
 
 - Backend üzerinde geliştirilen RBAC yapısını görsel olarak yönetebilmek
-- Kullanıcı, rol, modül ve fonksiyon yetkilendirmelerini admin panel üzerinden kontrol etmek
+- Kullanıcıların sisteme güvenli şekilde giriş yapmasını sağlamak
+- Admin kullanıcılar için:
+  - Rol yönetimi
+  - Kullanıcı yönetimi
+  - Modül – Fonksiyon yetkilendirme
+  işlemlerini görsel ve yönetilebilir hale getirmek
 - JWT tabanlı kimlik doğrulama ile güvenli frontend–backend iletişimi sağlamak
 - Kurumsal, sade ve yönetilebilir bir kullanıcı deneyimi oluşturmak
 
@@ -28,16 +33,17 @@ tam kapsamlı bir frontend arayüz sunar.
 
 ### Yetkilendirme
 
-- Kullanıcılar yalnızca rollerinin izin verdiği:
-  - Modülleri
-  - Fonksiyonları
-  - Sayfaları
-  görebilir
+- Kullanıcı hangi işlemleri yapabileceğini:
+  - Rol
+  - Modül
+  - Fonksiyon
+  yapısına göre belirler
 
 ### Admin Kullanıcı
 
 Admin rolüne sahip kullanıcılar:
 
+Tüm yetkilere sahiptir
 - Kullanıcı yönetimi
 - Rol oluşturma
 - Modül & fonksiyon tanımlama
@@ -59,7 +65,6 @@ gibi tüm sistem operasyonlarını yönetebilir.
 - Global component yapısının kurulması
 
 ---
-
 
 ## 🧑‍💻 Admin Panel Özellikleri
 
