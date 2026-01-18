@@ -125,7 +125,7 @@ Bu frontend uygulaması aşağıdaki backend API ile çalışmaktadır:
 ## 👨‍💻 Geliştirici
 
 **Yunus Güçlü**  
-Software Enginer
+Software Engineer
 
 ---
 
