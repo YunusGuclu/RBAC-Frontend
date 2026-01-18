@@ -99,7 +99,7 @@ gibi tüm sistem operasyonlarını yönetebilir.
 Bu frontend uygulaması aşağıdaki backend API ile çalışmaktadır:
 
 👉 **Backend Repo:**  
-🔗 https://github.com/YunusGuclu/rbac-backend-api
+🔗 https://github.com/YunusGuclu/RBAC-Backend
 
 ---
 
