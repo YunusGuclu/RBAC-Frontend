@@ -1,11 +1,19 @@
 # 🎨 RBAC Frontend Panel
 
-Bu proje, **RBAC (Role-Based Access Control) Backend API** ile entegre çalışan  
-**modern ve yönetilebilir bir admin panel frontend uygulamasıdır.**
+Bu proje, backend tarafında geliştirilen **RBAC (Role-Based Access Control) API** ile entegre çalışan,  
+kullanıcı ve yetkilendirme süreçlerinin arayüz üzerinden yönetilmesini sağlayan  
+**modern, ölçeklenebilir ve yönetilebilir bir admin panel frontend uygulamasıdır.**
 
-Uygulama, kullanıcıların rollerine göre yetkilendirildiği,  
-admin kullanıcıların ise sistem üzerindeki tüm RBAC yapılarını yönettiği  
-tam kapsamlı bir frontend arayüz sunar.
+Uygulama; kullanıcıların sisteme **JWT tabanlı kimlik doğrulama** ile güvenli şekilde giriş yapmasını,  
+rollerine göre yalnızca yetkili oldukları modül ve fonksiyonlara erişmesini sağlayacak şekilde tasarlanmıştır.
+
+Admin yetkisine sahip kullanıcılar ise sistem üzerindeki tüm RBAC bileşenlerini  
+(**kullanıcı, rol, modül ve fonksiyon yapılarını**) görsel olarak yönetebilir.  
+Bu sayede backend üzerinde tanımlanan yetkilendirme yapısı, frontend tarafında  
+**kontrollü, anlaşılır ve sürdürülebilir bir yönetim paneli** haline getirilmiştir.
+
+Bu frontend uygulaması, backend ile tamamen ayrık olacak şekilde geliştirilmiş olup,  
+kurumsal projelerde kullanılabilecek **tam kapsamlı bir RBAC Admin Panel arayüzü** sunmaktadır.
 
 ---
 
