@@ -73,16 +73,16 @@ gibi tüm sistem operasyonlarını yönetebilir.
 
 ---
 #### Rol ve Kullanıcı Yönetim Ekranı
-<img width="839" height="476" alt="image" src="https://github.com/user-attachments/assets/773ba2b6-68c6-4525-8e3c-0b8995b78e67" />
+<img width="600" height="476" alt="image" src="https://github.com/user-attachments/assets/773ba2b6-68c6-4525-8e3c-0b8995b78e67" />
 
 #### Rol Oluşturma ve FMC / RFMC (Modül–Fonksiyon) Yetkilendirme Yönetimi
 <img width="602" height="378" alt="image" src="https://github.com/user-attachments/assets/448cbc48-7fb8-424e-a774-918f1150e89d" />
 
 #### Kullanıcı–Rol (RoleUser) İlişkilerinin Yönetimi 
-<img width="554" height="480" alt="image" src="https://github.com/user-attachments/assets/d12bc862-9863-4011-af95-a7fa8099cfa1" />
+<img width="600" height="480" alt="image" src="https://github.com/user-attachments/assets/d12bc862-9863-4011-af95-a7fa8099cfa1" />
 
 #### Rol–FMC (RFMC) Güncelleme
-<img width="1090" height="480" alt="image" src="https://github.com/user-attachments/assets/28fbff40-1d7a-4279-b620-665b8023817e" />
+<img width="800" height="480" alt="image" src="https://github.com/user-attachments/assets/28fbff40-1d7a-4279-b620-665b8023817e" />
 
 ## 🛠️ Kullanılan Teknolojiler
 
